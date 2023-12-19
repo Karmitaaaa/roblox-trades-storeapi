@@ -5,6 +5,7 @@
       "cantidad_total": 5,
       "1": {
         "id": "rb_jolly_penguin",
+        "nombre": "Rainbow Jolly Penguin",
         "stock": 2500,
         "precio": {
            "robux": "",
@@ -14,6 +15,7 @@
         },
       "2": {
         "id": "rb_jolly_cat",
+        "nombre": "Rainbow Jolly Cat",
         "stock": 500,
         "precio": {
           "robux": "",
@@ -22,7 +24,8 @@
         "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Cat.png"
         },
       "3": {
-        "id": "rb_colorfull_dragon",
+        "id": "rb_colorful_dragon",
+        "nombre": "Rainbow Colorful Dragon",        
         "stock": 10,
         "precio": {
           "robux": "",
@@ -32,6 +35,7 @@
       },
       "4": {
         "id": "rb_frost_bear",
+        "nombre": "Rainbow Frost Bear",
         "stock": 10000,
         "precio": {
           "robux": "",
@@ -41,6 +45,7 @@
       },
       "5": {
         "id": "rb_frost_axolotl",
+        "nombre": "Rainbow Frost Axolotl",
         "stock": 5000,
         "precio": {
           "robux": "",
