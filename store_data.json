@@ -6,50 +6,55 @@
       "1": {
         "id": "rb_jolly_penguin",
         "nombre": "Rainbow Jolly Penguin",
+        "color": "#7ffc03",
         "stock": 2500,
         "precio": {
            "robux": "",
-           "gemas": "750 c/u"
+           "gemas": 750
         },
         "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Penguin.png"
         },
       "2": {
         "id": "rb_jolly_cat",
         "nombre": "Rainbow Jolly Cat",
+        "color": "#fcba03",
         "stock": 500,
         "precio": {
           "robux": "",
-          "gemas": "2.500 (2.5k) c/u"
+          "gemas": 2500
         },
         "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Cat.png"
         },
       "3": {
         "id": "rb_colorful_dragon",
-        "nombre": "Rainbow Colorful Dragon",        
+        "nombre": "Rainbow Colorful Dragon",
+        "color": "#f403fc",
         "stock": 10,
         "precio": {
           "robux": "",
-          "gemas": "100.000 (100k) c/u"
+          "gemas": 100000
         },
         "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Colorful_Dragon.png"
       },
       "4": {
         "id": "rb_frost_bear",
         "nombre": "Rainbow Frost Bear",
+        "color": "#036ffc",
         "stock": 10000,
         "precio": {
           "robux": "",
-          "gemas": "100 c/u"
+          "gemas": 100
         },
         "link_imagen": ""
       },
       "5": {
         "id": "rb_frost_axolotl",
         "nombre": "Rainbow Frost Axolotl",
+        "color": "#03c2fc",
         "stock": 5000,
         "precio": {
           "robux": "",
-          "gemas": "200 c/u"
+          "gemas": 200
         },
         "link_imagen": ""
       }
