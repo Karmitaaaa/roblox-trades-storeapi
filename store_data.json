@@ -12,6 +12,10 @@
            "robux": "",
            "gemas": 750
         },
+        "precio_display": {
+           "robux": "Precio no especificado aun",
+           "gemas": "750 c/u"
+        },
         "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Penguin.png"
         },
       "2": {
@@ -22,6 +26,10 @@
         "precio": {
           "robux": "",
           "gemas": 2500
+        },
+        "precio_display": {
+           "robux": "Precio no especificado aun",
+           "gemas": "2.500 c/u"
         },
         "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Cat.png"
         },
@@ -34,6 +42,10 @@
           "robux": "",
           "gemas": 100000
         },
+        "precio_display": {
+           "robux": "Precio no especificado aun",
+           "gemas": "100.000 c/u"
+        },
         "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Colorful_Dragon.png"
       },
       "4": {
@@ -45,6 +57,10 @@
           "robux": "",
           "gemas": 100
         },
+        "precio_display": {
+           "robux": "Precio no especificado aun",
+           "gemas": "100 c/u"
+        },
         "link_imagen": ""
       },
       "5": {
@@ -55,6 +71,10 @@
         "precio": {
           "robux": "",
           "gemas": 200
+        },
+        "precio_display": {
+           "robux": "Precio no especificado aun",
+           "gemas": "200 c/u"
         },
         "link_imagen": ""
       }
