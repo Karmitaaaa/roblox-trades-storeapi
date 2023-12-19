@@ -1,1 +1,38 @@
-
+{
+  "tienda_cerrada": false,
+  "categorias": {
+    "mascotas": {
+      "cantidad_total": 3,
+      "1": {
+        "rb_jolly_penguin": {
+          "stock": 2500,
+          "precio": {
+            "robux": "",
+            "gemas": ""
+          },
+          "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Penguin.png"
+        }
+      },
+      "2": {
+        "rb_jolly_cat": {
+          "stock": 500,
+          "precio": {
+            "robux": "",
+            "gemas": ""
+          },
+          "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Cat.png"
+        }
+      },
+      "3": {
+        "rb_colorful_dragon": {
+          "stock": 10,
+          "precio": {
+            "robux": "",
+            "gemas": ""
+          },
+          "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Colorful_Dragon.png"
+        }
+      }
+    }
+  }
+}
