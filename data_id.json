@@ -7,6 +7,12 @@
       "rb_frost_bear": "rb_frost_bear",
       "rb_frost_axolotl": "rb_frost_axolotl"
     },
-    "objects_array": ["rb_jolly_penguin", "rb_jolly_cat", "rb_colorful_dragon", "rb_frost_bear", "rb_frost_axolotl"]
+    "objects_array": [
+      "rb_jolly_penguin", 
+      "rb_jolly_cat", 
+      "rb_colorful_dragon", 
+      "rb_frost_bear", 
+      "rb_frost_axolotl"
+    ]
   }
 }
