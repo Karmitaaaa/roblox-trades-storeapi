@@ -6,7 +6,7 @@
       "1": {
         "id": "rb_jolly_penguin",
         "nombre": "Rainbow Jolly Penguin",
-        "color": "#7ffc03",
+        "color": "7ffc03",
         "stock": 2500,
         "precio": {
            "robux": "",
@@ -17,7 +17,7 @@
       "2": {
         "id": "rb_jolly_cat",
         "nombre": "Rainbow Jolly Cat",
-        "color": "#fcba03",
+        "color": "fcba03",
         "stock": 500,
         "precio": {
           "robux": "",
@@ -28,7 +28,7 @@
       "3": {
         "id": "rb_colorful_dragon",
         "nombre": "Rainbow Colorful Dragon",
-        "color": "#f403fc",
+        "color": "f403fc",
         "stock": 10,
         "precio": {
           "robux": "",
@@ -39,7 +39,7 @@
       "4": {
         "id": "rb_frost_bear",
         "nombre": "Rainbow Frost Bear",
-        "color": "#036ffc",
+        "color": "036ffc",
         "stock": 10000,
         "precio": {
           "robux": "",
@@ -50,7 +50,7 @@
       "5": {
         "id": "rb_frost_axolotl",
         "nombre": "Rainbow Frost Axolotl",
-        "color": "#03c2fc",
+        "color": "03c2fc",
         "stock": 5000,
         "precio": {
           "robux": "",
