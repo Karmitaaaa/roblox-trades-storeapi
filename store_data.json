@@ -2,36 +2,51 @@
   "tienda_cerrada": false,
   "categorias": {
     "mascotas": {
-      "cantidad_total": 3,
+      "cantidad_total": 5,
       "1": {
-        "rb_jolly_penguin": {
-          "stock": 2500,
-          "precio": {
-            "robux": "",
-            "gemas": "750"
-          },
-          "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Penguin.png"
-        }
-      },
+        "id": "rb_jolly_penguin",
+        "stock": 2500,
+        "precio": {
+           "robux": "",
+           "gemas": ""
+        },
+        "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Penguin.png"
+        },
       "2": {
-        "rb_jolly_cat": {
-          "stock": 500,
-          "precio": {
-            "robux": "",
-            "gemas": "2500"
-          },
-          "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Cat.png"
-        }
-      },
+        "id": "rb_jolly_cat",
+        "stock": 500,
+        "precio": {
+          "robux": "",
+          "gemas": ""
+        },
+        "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Jolly_Cat.png"
+        },
       "3": {
-        "rb_colorful_dragon": {
-          "stock": 10,
-          "precio": {
-            "robux": "",
-            "gemas": "100000"
-          },
-          "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Colorful_Dragon.png"
-        }
+        "id": "rb_colorfull_dragon",
+        "stock": 10,
+        "precio": {
+          "robux": "",
+          "gemas": ""
+        },
+        "link_imagen": "https://karmitaaaa.github.io/roblox-trades-storeapi/image_data/Colorful_Dragon.png"
+      },
+      "4": {
+        "id": "rb_frost_bear",
+        "stock": 10000,
+        "precio": {
+          "robux": "",
+          "gemas": "100 c/u"
+        },
+        "link_imagen": ""
+      },
+      "5": {
+        "id": "rb_frost_axolotl",
+        "stock": 5000,
+        "precio": {
+          "robux": "",
+          "gemas": "200 c/u"
+        },
+        "link_imagen": ""
       }
     }
   }
