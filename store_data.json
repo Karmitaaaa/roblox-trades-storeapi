@@ -2,7 +2,7 @@
   "tienda_cerrada": false,
   "categorias": {
     "mascotas": {
-      "cantidad_total": 5,
+      "total_mascotas": 5,
       "1": {
         "id": "rb_jolly_penguin",
         "nombre": "Rainbow Jolly Penguin",
