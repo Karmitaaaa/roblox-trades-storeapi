@@ -10,7 +10,7 @@
         "color": "7ffc03",
         "stock": 5000,
         "precio": {
-           "robux": "",
+           "robux": "-1",
            "gemas": 500
         },
         "precio_display": {
@@ -25,7 +25,7 @@
         "color": "fcba03",
         "stock": 500,
         "precio": {
-          "robux": "",
+          "robux": "-1",
           "gemas": 1500
         },
         "precio_display": {
@@ -40,7 +40,7 @@
         "color": "f403fc",
         "stock": 10,
         "precio": {
-          "robux": "",
+          "robux": "-1",
           "gemas": 45000
         },
         "precio_display": {
@@ -55,7 +55,7 @@
         "color": "036ffc",
         "stock": 30000,
         "precio": {
-          "robux": "",
+          "robux": "-1",
           "gemas": 50
         },
         "precio_display": {
@@ -70,7 +70,7 @@
         "color": "03c2fc",
         "stock": 10000,
         "precio": {
-          "robux": "",
+          "robux": "-1",
           "gemas": 100
         },
         "precio_display": {
