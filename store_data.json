@@ -23,10 +23,10 @@
         "id": "rb_jolly_cat",
         "nombre": "Rainbow Jolly Cat",
         "color": "fcba03",
-        "stock": 500,
+        "stock": 1500,
         "precio": {
           "robux": "",
-          "gemas": 500
+          "gemas": 1.500
         },
         "precio_display": {
            "robux": "Precio no especificado aun",
@@ -45,7 +45,7 @@
         },
         "precio_display": {
            "robux": "Precio no especificado aun",
-           "gemas": "50.000 c/u"
+           "gemas": "45.000 c/u"
         },
         "link_imagen": "https://media.discordapp.net/attachments/1186680446394826884/1186680510928388248/Colorful_Dragon.png?ex=65942159&is=6581ac59&hm=7581b6b17e4ec501819f98c9be57f43b52718d950bc08a1bb5434c438f125f26&=&format=webp&quality=lossless"
       },
