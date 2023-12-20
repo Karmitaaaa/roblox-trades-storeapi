@@ -1,4 +1,4 @@
-{
+No {
   "tienda_cerrada": false,
   "ultima_actualizacion": "<t:1702994220:R>",
   "categorias": {
@@ -8,14 +8,14 @@
         "id": "rb_jolly_penguin",
         "nombre": "Rainbow Jolly Penguin",
         "color": "7ffc03",
-        "stock": 2500,
+        "stock": 5000,
         "precio": {
            "robux": "",
-           "gemas": 750
+           "gemas": 500
         },
         "precio_display": {
            "robux": "Precio no especificado aun",
-           "gemas": "750 c/u"
+           "gemas": "500 c/u"
         },
         "link_imagen": "https://media.discordapp.net/attachments/1186680446394826884/1186680511163289610/Jolly_Penguin.png?ex=65942159&is=6581ac59&hm=a005311f8f607a2009233f06e66b2886ddd3737650d919ec05a6f44176046988&=&format=webp&quality=lossless"
         },
@@ -26,7 +26,7 @@
         "stock": 500,
         "precio": {
           "robux": "",
-          "gemas": 2500
+          "gemas": 500
         },
         "precio_display": {
            "robux": "Precio no especificado aun",
@@ -41,11 +41,11 @@
         "stock": 10,
         "precio": {
           "robux": "",
-          "gemas": 100000
+          "gemas": 50.000
         },
         "precio_display": {
            "robux": "Precio no especificado aun",
-           "gemas": "100.000 c/u"
+           "gemas": "50.000 c/u"
         },
         "link_imagen": "https://media.discordapp.net/attachments/1186680446394826884/1186680510928388248/Colorful_Dragon.png?ex=65942159&is=6581ac59&hm=7581b6b17e4ec501819f98c9be57f43b52718d950bc08a1bb5434c438f125f26&=&format=webp&quality=lossless"
       },
@@ -53,6 +53,21 @@
         "id": "rb_frost_bear",
         "nombre": "Rainbow Frost Bear",
         "color": "036ffc",
+        "stock": 30000,
+        "precio": {
+          "robux": "",
+          "gemas": 50
+        },
+        "precio_display": {
+           "robux": "Precio no especificado aun",
+           "gemas": "50 c/u"
+        },
+        "link_imagen": ""
+      },
+      "5": {
+        "id": "rb_frost_axolotl",
+        "nombre": "Rainbow Frost Axolotl",
+        "color": "03c2fc",
         "stock": 10000,
         "precio": {
           "robux": "",
@@ -61,21 +76,6 @@
         "precio_display": {
            "robux": "Precio no especificado aun",
            "gemas": "100 c/u"
-        },
-        "link_imagen": ""
-      },
-      "5": {
-        "id": "rb_frost_axolotl",
-        "nombre": "Rainbow Frost Axolotl",
-        "color": "03c2fc",
-        "stock": 5000,
-        "precio": {
-          "robux": "",
-          "gemas": 200
-        },
-        "precio_display": {
-           "robux": "Precio no especificado aun",
-           "gemas": "200 c/u"
         },
         "link_imagen": ""
       }
